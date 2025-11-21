@@ -33,7 +33,7 @@ Register Number:212222230038
 ```
 import java.util.Scanner;
 
-// Parent class
+
 class Vehicle {
     int speed = 0;
 
@@ -94,6 +94,7 @@ public class TestVehicles {
 
 ## RESULT:
 Therefore the  program successfully demonstrates method overriding by applying different speed increase behaviors for car and bicycle.
+
 
 
 
