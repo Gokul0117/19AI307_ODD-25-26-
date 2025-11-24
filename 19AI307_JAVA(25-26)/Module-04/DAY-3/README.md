@@ -17,11 +17,9 @@ To demonstrate the Abstract Factory Pattern by creating families of related obje
 
 ## PROGRAM:
  ```
-/*
 Program to implement a Composition Concepts in Java
-Developed by: Thirukaalathessvarar S
-Register Number: 212222230161
-*/
+Developed by: Gokul J
+Register Number: 212222230038
 ```
 
 ## SOURCE CODE:
@@ -88,5 +86,6 @@ public class Main {
 
 ## RESULT:
 The program successfully demonstrates the Abstract Factory Pattern, showing different animal interactions for Africa and Asia.
+
 
 
